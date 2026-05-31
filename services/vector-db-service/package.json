@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "qdrant-client": "^1.0.0",
+        "sentence-transformers": "^2.0.0",
+        "numpy": "^1.20.0"
+    }
+}
